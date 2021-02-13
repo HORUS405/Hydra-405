@@ -1,6 +1,6 @@
 Made by  : HORUS-405
 This program use for downloading movies and their subtitels from torrent and subscene
-you must run he programe in 'yourpath'/Hydra-405(movies)/movie/ 
+you must run he programe in 'yourpath'/Hydra-405/movie/ 
 required libraries: pyqt5 , sys , time , random , tpblite , subsceneAPI , re
 python3.9
 used tools : npm ,webtorrent-cli
